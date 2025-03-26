@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](images/banner.jpg)
+![Banner](images/image.jpg)
 
 
 I'm a developer passionate about programming and technological innovation, dedicated to building efficient and user-friendly applications.
